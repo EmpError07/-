@@ -1,0 +1,5 @@
+{
+  "name": "今天吃什麼 (What to Eat Today)",
+  "description": "一個精美且實用的美食決策輔助工具，包含隨機輪盤、美食資料庫與每日推薦功能。",
+  "requestFramePermissions": []
+}
